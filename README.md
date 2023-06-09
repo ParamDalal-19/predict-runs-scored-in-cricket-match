@@ -35,7 +35,7 @@ pip install pandas numpy scikit-learn matplotlib
 To use the project, follow these steps:
 
 1. Make sure you have installed the required dependencies.
-2. Place the "final_dataset.csv" file in the same directory as the Python files.
+2. Place the `final_dataset.csv` file in the same directory as the Python files.
 3. Open the desired file (decisiontree.py, KNN.py, lasso.py, PCA.py, or random_forest.py) in your Python editor.
 4. Run the file to see the results, including accuracy metrics and visualizations.
 
